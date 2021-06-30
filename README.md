@@ -1,4 +1,4 @@
-# 关于misaka10843 👋
+# 关于zhanghe 👋
 
 ### 😆 主页浏览量
 <p>
@@ -8,7 +8,7 @@
 	</a>
 </p>
 
-### bilibili
+### blog
 
 <a href="https://blog.csdn.net/weixin_41849462">
 	<img stlye="" src="./img/blog.jpg"/>
